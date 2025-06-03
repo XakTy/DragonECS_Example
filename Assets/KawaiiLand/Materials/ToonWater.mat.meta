@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb7a541cc707ae047ab3bd91ec115a0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/ToonWater.mat
+  uploadId: 625840

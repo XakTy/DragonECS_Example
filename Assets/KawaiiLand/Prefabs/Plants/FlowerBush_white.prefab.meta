@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3db05949bac4207449b50b4e9e1592fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Plants/FlowerBush_white.prefab
+  uploadId: 625840

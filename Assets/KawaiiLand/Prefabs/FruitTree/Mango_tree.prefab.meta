@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eacb90534775f2947ba0d7695c412555
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Mango_tree.prefab
+  uploadId: 625840

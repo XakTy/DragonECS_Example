@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5f4e3ba517eaed4183c95be1d494fd1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_road_end.prefab
+  uploadId: 625840

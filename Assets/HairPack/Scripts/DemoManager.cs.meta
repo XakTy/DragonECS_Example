@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ab5728ab4dd40047a4edb96cb0810dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192429
+  packageName: SD Girl Hair Pack
+  packageVersion: 1.0
+  assetPath: Assets/HairPack/Scripts/DemoManager.cs
+  uploadId: 427109

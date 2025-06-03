@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de748eb2c0b62ba499ec89b6547f44af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Tiles.mat
+  uploadId: 625840

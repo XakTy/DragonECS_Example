@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24aa1429d2719cc4d96217a79e6dc21b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Folliage.mat
+  uploadId: 625840

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8348fa16c433a240ace442819e9ba25
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Shader/Build-in/ToonLitCutout.shader
+  uploadId: 625840

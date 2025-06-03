@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a95784c68f03494d8c7911e15fab82a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192429
+  packageName: SD Girl Hair Pack
+  packageVersion: 1.0
+  assetPath: Assets/HairPack/UnityChanShader/Unitychan_chara_hada_blend.shader
+  uploadId: 427109

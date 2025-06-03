@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bad245dfe71a7e4fb8395f94cdc8d57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Cliff.mat
+  uploadId: 625840

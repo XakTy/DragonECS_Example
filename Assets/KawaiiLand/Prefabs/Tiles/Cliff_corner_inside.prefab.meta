@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d478e533f00f154cb4bb6a59d95ed51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Cliff_corner_inside.prefab
+  uploadId: 625840

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf944057124b80b4e84496139e3b072c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192429
+  packageName: SD Girl Hair Pack
+  packageVersion: 1.0
+  assetPath: Assets/HairPack/UnityChanShader/Unitychan_chara_eye_blend.shader
+  uploadId: 427109

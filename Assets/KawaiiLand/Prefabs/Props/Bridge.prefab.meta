@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1a0689d46886f144a45c3a21696b11f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Props/Bridge.prefab
+  uploadId: 625840

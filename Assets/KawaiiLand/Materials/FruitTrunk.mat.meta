@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18298bdce85181d4b8f1bc3b1651fa8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/FruitTrunk.mat
+  uploadId: 625840

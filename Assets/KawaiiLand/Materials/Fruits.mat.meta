@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d9769e5801502e45a7673fc5c139f32
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Fruits.mat
+  uploadId: 625840

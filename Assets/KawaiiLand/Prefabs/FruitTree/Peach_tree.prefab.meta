@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7699347d0fa3f2e4690004b4abab37ff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Peach_tree.prefab
+  uploadId: 625840

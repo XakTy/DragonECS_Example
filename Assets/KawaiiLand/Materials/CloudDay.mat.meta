@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d168c0162d579834493612b46a8d2640
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/CloudDay.mat
+  uploadId: 625840

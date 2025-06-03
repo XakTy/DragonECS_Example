@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b00bef8de1437444f8d84b6a2633e34a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Pomegranate_tree.prefab
+  uploadId: 625840

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 635fa032ba823d5478b30e4a66acbcb7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Shader/Build-in/UnlitCastShadow.shader
+  uploadId: 625840

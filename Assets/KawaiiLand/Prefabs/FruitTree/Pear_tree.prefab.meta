@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c68a25321fb8a84bb2165aff27ada1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Pear_tree.prefab
+  uploadId: 625840

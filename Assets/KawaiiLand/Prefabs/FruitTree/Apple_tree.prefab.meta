@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23bfb955924ee9042a95c94e62fcff4d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Apple_tree.prefab
+  uploadId: 625840

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b84cf0f898f5c94faacdf18e44576a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Avocado_tree.prefab
+  uploadId: 625840

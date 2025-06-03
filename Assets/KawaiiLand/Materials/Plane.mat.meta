@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8103561e1e57ce41a9987d868df01ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Plane.mat
+  uploadId: 625840

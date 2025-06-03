@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e31f61ab156e9c64a94c04d44c38f716
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Render pipeline/Build-in.unitypackage
+  uploadId: 625840

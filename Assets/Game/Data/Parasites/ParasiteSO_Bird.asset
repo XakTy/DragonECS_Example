@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cebfdc6fc24141a9043cd713181ed8, type: 3}
+  m_Name: ParasiteSO_Bird
+  m_EditorClassIdentifier: 
+  <ParasiteView>k__BackingField: {fileID: 8407734473924310156, guid: 7ee9bc9f95e63db4db51ca2e880b9836, type: 3}
+  <ActionConfig>k__BackingField: {fileID: 11400000, guid: f17737a2be205e44f8ebbb707bf35f42, type: 2}

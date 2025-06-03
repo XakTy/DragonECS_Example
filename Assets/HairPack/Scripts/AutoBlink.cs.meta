@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c43319f9fddefb40bf12cd4ae865645
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192429
+  packageName: SD Girl Hair Pack
+  packageVersion: 1.0
+  assetPath: Assets/HairPack/Scripts/AutoBlink.cs
+  uploadId: 427109

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5564eb730b423c96a95224a7b73059, type: 3}
+  m_Name: IdDatabase
+  m_EditorClassIdentifier: 
+  _records:
+  - _name: Currency
+    _id: 1
+    _subgroups:
+    - _groupId: 1
+      _name: Base
+      _id: 1
+      _ids:
+      - _id: Gold
+        _editorFullName: Currency/Base/Gold
+        _indexInSubgroup: 1
+        _group: 1
+        _subgroup: 1
+        _item: 1
+        _hash: 16842753
+      - _id: Wood
+        _editorFullName: Currency/Base/Wood
+        _indexInSubgroup: 2
+        _group: 1
+        _subgroup: 1
+        _item: 2
+        _hash: 16842754
+      - _id: Diamond
+        _editorFullName: Currency/Base/Diamond
+        _indexInSubgroup: 3
+        _group: 1
+        _subgroup: 1
+        _item: 3
+        _hash: 16842755

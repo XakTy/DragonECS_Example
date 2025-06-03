@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1608d1158fe0084083fd52d21bb953b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Render pipeline/URP.unitypackage
+  uploadId: 625840

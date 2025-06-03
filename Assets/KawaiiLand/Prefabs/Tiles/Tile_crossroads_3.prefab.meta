@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3304492ff9b70e04db3cddef778a4b83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_crossroads_3.prefab
+  uploadId: 625840
